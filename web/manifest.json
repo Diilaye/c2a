@@ -1,11 +1,11 @@
 {
-    "name": "verif_car",
-    "short_name": "verif_car",
+    "name": "c2a",
+    "short_name": "c2a",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Projet de verification des assurancances",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
